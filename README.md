@@ -1,6 +1,8 @@
 # mjoint
 Fit a joint model to time-to-event data and multivariate longitudinal data Use mjoint (joineRML) With (In) R Software
 
+https://www.youtube.com/watch?v=w1oKZHTiDWA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
